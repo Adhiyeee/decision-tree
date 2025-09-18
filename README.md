@@ -29,5 +29,5 @@ It includes preprocessing, model training, evaluation, and visualization.
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/Adhiyeeee/decision-tree.git
+git clone https://github.com/Adhiyeee/decision-tree.git
 cd decision-tree
